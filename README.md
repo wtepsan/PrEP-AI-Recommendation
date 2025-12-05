@@ -28,5 +28,4 @@ Pre-exposure prophylaxis (PrEP), HIV prevention, Machine learning, Generative ar
 <img src="/images/profileevaluation.png" width="600">
 
 ## Web Application Deployment
-The integrated framework has been implemented as a web-based chat application on Love2Test.org to facilitate real-time HIV PrEP risk assessment and personalized recommendations.
-
+The integrated framework has been implemented as a web-based chat application on [Love2Test.org](https://love2test.org) to facilitate real-time HIV PrEP risk assessment and personalized recommendations.
