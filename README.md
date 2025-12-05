@@ -13,7 +13,8 @@ A synthetic dataset of 2,000 client profiles was generated using a PrEP screenin
 Findings demonstrate that the integrated framework improves prediction accuracy and supports data-driven, context-aware communication. The AI-assisted recommendations effectively address user concerns, reduce perceived stigma, and enhance engagement, indicating strong potential for real-world clinical deployment.
 ## Conclusion:
 By combining predictive analytics with generative communication, the framework provides a scalable, intelligent solution to improve PrEP uptake and adherence. This approach supports healthcare providers in optimizing resource allocation and strengthens the global HIV prevention effort through personalized, stigma-sensitive digital interventions.
-## Keywords: Pre-exposure prophylaxis (PrEP), HIV prevention, Machine learning, Generative artificial intelligence (Gen AI), Risk prediction, Preventive healthcare, Clinical decision-making, Data-driven methods, Healthcare optimization.
+### Keywords: 
+Pre-exposure prophylaxis (PrEP), HIV prevention, Machine learning, Generative artificial intelligence (Gen AI), Risk prediction, Preventive healthcare, Clinical decision-making, Data-driven methods, Healthcare optimization.
 
 ## Machine Learning Result
 ![My Local Image](/images/Figure2.png)
@@ -25,4 +26,7 @@ By combining predictive analytics with generative communication, the framework p
 
 ### Evaluations
 <img src="/images/profileevaluation.png" width="600">
+
+## Web Application Deployment
+The integrated framework has been implemented as a web-based chat application on Love2Test.org to facilitate real-time HIV PrEP risk assessment and personalized recommendations.
 
