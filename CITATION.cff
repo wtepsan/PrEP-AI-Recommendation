@@ -17,7 +17,7 @@ authors:
   - family-names: Tran
     given-names: Do
     orcid: "0000-0001-7144-1629"
-    email: do.tran8@gilead.com
+    email: do.tran11@gilead.com
   - family-names: Neo
     given-names: Boon-Leong
     orcid: "0000-0002-6502-050X"
@@ -35,7 +35,6 @@ affiliations:
   - name: Environmental and Occupational Medicine Excellence Center, Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand
   - name: Faculty of Nursing, Chiang Mai University
   - name: Gilead Sciences Inc, CA, US and Singapore
-  - name: Safe Clinic, Bangkok
 
 date-released: "2025-02-18"
 version: "1.0"
